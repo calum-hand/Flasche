@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "flasche"
+version = "0.1.0"
+description = ""
+authors = ["Calum Hand <calum.hand@glamorous.ai>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Flask = "^3.0.3"
+pandas = "^2.2.3"
+requests = "^2.32.3"
+pypdf = "^5.0.1"
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.10.0"
+ipython = "^8.28.0"
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

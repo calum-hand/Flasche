@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Statistics</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #chart-container {
+            width: 80%;
+            margin: auto;
+        }
+        .chart {
+            margin-bottom: 40px; /* Space between charts */
+        }
+    </style>
+</head>
+<body>
+    <h1>Vocabulary Summary Statistics</h1>
+    
+    <div id="chart-container">
+        <div class="chart">
+            <h3>Grouped by Type</h3>
+            <canvas id="typeChart"></canvas>
+        </div>
+        <div class="chart">
+            <h3>Grouped by Level</h3>
+            <canvas id="levelChart"></canvas>
+        </div>
+    </div>
+
+    <script>
+        // Function to fetch and create a chart
+        function createChart(groupBy, canvasId, backgroundColor) {
+            fetch('/metrics/generate_stats', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: new URLSearchParams({
+                    'group_by': groupBy,
+                    'value_col': 'English'  // Fixed value column to 'English'
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                const labels = data.map(row => row[groupBy]);
+                const counts = data.map(row => row.Count);
+
+                const ctx = document.getElementById(canvasId).getContext('2d');
+                new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: labels,
+                        datasets: [{
+                            label: 'Count',
+                            data: counts,
+                            backgroundColor: backgroundColor, // Set the color passed as argument
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        scales: {
+                            y: {
+                                beginAtZero: true
+                            }
+                        }
+                    }
+                });
+            });
+        }
+
+        // Create all three charts on page load with specified colors
+        createChart('Type', 'typeChart', 'rgba(0, 0, 0, 0.5)');      // black
+        createChart('Level', 'levelChart', 'rgba(255, 0, 0, 0.5)');  // red
+        
+    </script>
+<a href="/" class="btn btn-light">Back to Home</a>
+</body>
+</html>
