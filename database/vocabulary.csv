@@ -228,3 +228,255 @@ something,etwas,Pronoun,A1/A2
 Weightlifter,Gewichtheber,Noun,C1/C2
 Repetition,Wiederholung,Noun,C1/C2
 Set,Satz,Noun,A1/A2
+unemployed,arbeitslos,Adjective,A1/A2
+also,auch,Adverb,A1/A2
+on,auf,Preposition,A1/A2
+from,aus,Preposition,A1/A2
+foreign,ausländisch,Adjective,A1/A2
+automatic,automatisch,Adjective,A1/A2
+soon,bald,Adverb,A1/A2
+cash,bar,Noun,A1/A2
+both,beide,Pronoun,A1/A2
+well-known,bekannt,Adjective,A1/A2
+busy,besetzt,Adjective,A1/A2
+better,besser,Adjective,A1/A2
+best,best-,Adjective,A1/A2
+cheap,billig,Adjective,A1/A2
+a-little,bisschen,Adjective,A1/A2
+please,bitte,Interjection,A1/A2
+bitter,bitter,Adjective,A1/A2
+angry,böse,Adjective,A1/A2
+wide,breit,Adjective,A1/A2
+approximately,circa/ca.,Adverb,A1/A2
+outside,draußen,Adverb,A1/A2
+through,durch,Preposition,A1/A2
+simple,einfach,Adjective,A1/A2
+again,noch-einmal,Adverb,A1/A2
+once,einmal,Adverb,A1/A2
+allow,erlauben,Verb,A1/A2
+incorrect,falsch,Adjective,A1/A2
+finished,fertig,Adjective,A1/A2
+free,frei,Adjective,A1/A2
+earlier,früher,Adverb,A1/A2
+for,für,Preposition,A1/A2
+born,geboren,Adjective,A1/A2
+into,gegen,Preposition,A1/A2
+now,gerade,Adverb,A1/A2
+yesterday,gestern,Adverb,A1/A2
+died,gestorben,Verb,A1/A2
+same,gleich,Adjective,A1/A2
+happily,glücklich,Adverb,A1/A2
+tall,groß,Adjective,A1/A2
+valid,gültig,Adjective,A1/A2
+good,gut,Adjective,A1/A2
+hello,hallo,Interjection,A1/A2
+light,hell,Adjective,A1/A2
+today,heute,Adverb,A1/A2
+here,hier,Adverb,A1/A2
+at/in-the-back,hinten,Adverb,A1/A2
+high,hoch,Adjective,A1/A2
+him,ihn,Pronoun,A1/A2
+always,immer,Adverb,A1/A2
+in,in,Preposition,A1/A2
+international,international,Adjective,A1/A2
+yes,ja,Interjection,A1/A2
+every,jed-,Adjective,A1/A2
+young,jung,Adjective,A1/A2
+no/none,kein,Adjective,A1/A2
+of-course,klar,Interjection,A1/A2
+small,klein,Adjective,A1/A2
+ill,krank,Adjective,A1/A2
+cultural,kulturell,Adjective,A1/A2
+short,kurz,Adjective,A1/A2
+long,lang,Adjective,A1/A2
+slow,langsam,Adjective,A1/A2
+loud,laut,Adjective,A1/A2
+single,ledig,Adjective,A1/A2
+light-weight,leicht,Adjective,A1/A2
+unfortunately,leider,Adverb,A1/A2
+quiet,leise,Adjective,A1/A2
+last,letzt-,Adjective,A1/A2
+dear,lieb-,Adjective,A1/A2
+favourite,Lieblings-,Adjective,A1/A2
+left,links,Adjective,A1/A2
+funny,lustig,Adjective,A1/A2
+male,männlich,Adjective,A1/A2
+more,mehr,Adverb,A1/A2
+most,meist-,Adjective,A1/A2
+with,mit,Preposition,A1/A2
+possible,möglich,Adjective,A1/A2
+tomorrow,morgen,Adverb,A1/A2
+tired,müde,Adjective,A1/A2
+no,nein,Interjection,A1/A2
+new,neu,Adjective,A1/A2
+not,nicht,Adverb,A1/A2
+never,nie,Adverb,A1/A2
+still,noch,Adverb,A1/A2
+normal,normal,Adjective,A1/A2
+only,nur,Adverb,A1/A2
+upstairs,oben,Adverb,A1/A2
+or,oder,Conjunction,A1/A2
+open,geöffnet,Adjective,A1/A2
+often,oft,Adverb,A1/A2
+without,ohne,Preposition,A1/A2
+sharp,pünktlich,Adjective,A1/A2
+right,rechts,Adjective,A1/A2
+correct,richtig,Adjective,A1/A2
+sick,schlecht,Adjective,A1/A2
+closed,geschlossen,Adjective,A1/A2
+quick,schnell,Adjective,A1/A2
+already,schon,Adverb,A1/A2
+lovely,schön,Adjective,A1/A2
+heavy,schwer,Adjective,A1/A2
+very,sehr,Adverb,A1/A2
+his,sein,Pronoun,A1/A2
+independent,selbstständig,Adjective,A1/A2
+yourself,sich,Pronoun,A1/A2
+immediately,sofort,Adverb,A1/A2
+should,sollen,Verb,A1/A2
+late,spät,Adjective,A1/A2
+later,später,Adverb,A1/A2
+expensive,teuer,Adjective,A1/A2
+dead,tot,Adjective,A1/A2
+...,tschüss,Interjection,A1/A2
+across,über,Preposition,A1/A2
+at,um,Preposition,A1/A2
+and,und,Conjunction,A1/A2
+our,unser,Pronoun,A1/A2
+below,unter,Preposition,A1/A2
+forbidden,verboten,Adjective,A1/A2
+married,verheiratet,Adjective,A1/A2
+maybe,vielleicht,Adverb,A1/A2
+ago,vor,Preposition,A1/A2
+when,wann,Adverb,A1/A2
+why,warum,Adverb,A1/A2
+what,was,Pronoun,A1/A2
+female,weiblich,Adjective,A1/A2
+far,weit,Adverb,A1/A2
+further,weiter,Adverb,A1/A2
+which,welch-,Pronoun,A1/A2
+not-much,wenig,Adjective,A1/A2
+who,wer,Pronoun,A1/A2
+important,wichtig,Adjective,A1/A2
+where,wo,Adverb,A1/A2
+from-where,woher,Adverb,A1/A2
+wonderful,wunderbar,Adjective,A1/A2
+at-the-moment,zurzeit,Adverb,A1/A2
+to,zu,Preposition,A1/A2
+happy,zufrieden,Adjective,A1/A2
+return,zurück,Verb,A1/A2
+together,zusammen,Adverb,A1/A2
+between,zwischen,Preposition,A1/A2
+to answer,antworten,Verb,A1/A2
+to work,arbeiten,Verb,A1/A2
+to end,aufhören,Verb,A1/A2
+to get up,aufstehen,Verb,A1/A2
+to fill out,ausfüllen,Verb,A1/A2
+to switch off,ausmachen,Verb,A1/A2
+to look,aussehen,Verb,A1/A2
+to alight,aussteigen,Verb,A1/A2
+to take off,ausziehen,Verb,A1/A2
+to bathe,baden,Verb,A1/A2
+to mean,bedeuten,Verb,A1/A2
+to begin,beginnen,Verb,A1/A2
+to receive,bekommen,Verb,A1/A2
+to use,benutzen,Verb,A1/A2
+to visit,besichtigen,Verb,A1/A2
+to order,bestellen,Verb,A1/A2
+to pay,bezahlen,Verb,A1/A2
+to ask,bitten,Verb,A1/A2
+to stay,bleiben,Verb,A1/A2
+to need,brauchen,Verb,A1/A2
+to bring,bringen,Verb,A1/A2
+to spell,buchstabieren,Verb,A1/A2
+to thank,danken,Verb,A1/A2
+to print,drucken,Verb,A1/A2
+to press,drücken,Verb,A1/A2
+to be allowed,dürfen,Verb,A1/A2
+to go shopping,einkaufen,Verb,A1/A2
+to invite,einladen,Verb,A1/A2
+to get on board,einsteigen,Verb,A1/A2
+to recommend,empfehlen,Verb,A1/A2
+to excuse,entschuldigen,Verb,A1/A2
+to explain,erklären,Verb,A1/A2
+to tell,erzählen,Verb,A1/A2
+to eat,essen,Verb,A1/A2
+to travel,fahren,Verb,A1/A2
+to celebrate,feiern,Verb,A1/A2
+to be absent,fehlen,Verb,A1/A2
+to watch TV,fernsehen,Verb,A1/A2
+to find,finden,Verb,A1/A2
+to fly,fliegen,Verb,A1/A2
+to depart by air,abfliegen,Verb,A1/A2
+to have breakfast,frühstücken,Verb,A1/A2
+to give,geben,Verb,A1/A2
+to like,gefallen,Verb,A1/A2
+to belong,gehören,Verb,A1/A2
+to win,gewinnen,Verb,A1/A2
+to believe,glauben,Verb,A1/A2
+to congratulate,gratulieren,Verb,A1/A2
+to barbecue,grillen,Verb,A1/A2
+to have,haben,Verb,A1/A2
+to stop,halten,Verb,A1/A2
+to marry,heiraten,Verb,A1/A2
+to be called,heißen,Verb,A1/A2
+to help,helfen,Verb,A1/A2
+to fetch,holen,Verb,A1/A2
+to listen,hören,Verb,A1/A2
+to buy,kaufen,Verb,A1/A2
+to know,kennen,Verb,A1/A2
+to get to know,kennenlernen,Verb,A1/A2
+to cook,kochen,Verb,A1/A2
+to come,kommen,Verb,A1/A2
+to be able to,können,Verb,A1/A2
+to cost,kosten,Verb,A1/A2
+to get,kriegen,Verb,A1/A2
+to laugh,lachen,Verb,A1/A2
+to walk/run,laufen,Verb,A1/A2
+to live,leben,Verb,A1/A2
+to put,legen,Verb,A1/A2
+to learn,lernen,Verb,A1/A2
+to read,lesen,Verb,A1/A2
+to love,lieben,Verb,A1/A2
+to lie,liegen,Verb,A1/A2
+to do,machen,Verb,A1/A2
+to rent,mieten,Verb,A1/A2
+to bring with,mitbringen,Verb,A1/A2
+to come with,mitkommen,Verb,A1/A2
+to join in,mitmachen,Verb,A1/A2
+to take with,mitnehmen,Verb,A1/A2
+to have to,müssen,Verb,A1/A2
+to have food,nehmen,Verb,A1/A2
+to open,öffnen,Verb,A1/A2
+to smoke,rauchen,Verb,A1/A2
+to rain,regnen,Verb,A1/A2
+to repair,reparieren,Verb,A1/A2
+to smell,riechen,Verb,A1/A2
+to say,sagen,Verb,A1/A2
+to shine,scheinen,Verb,A1/A2
+to send,schicken,Verb,A1/A2
+to sleep,schlafen,Verb,A1/A2
+to close,schließen,Verb,A1/A2
+to taste,schmecken,Verb,A1/A2
+to write,schreiben,Verb,A1/A2
+to swim,schwimmen,Verb,A1/A2
+to see,sehen,Verb,A1/A2
+to sit,sitzen,Verb,A1/A2
+to play,spielen,Verb,A1/A2
+to speak,sprechen,Verb,A1/A2
+to study,studieren,Verb,A1/A2
+to search for,suchen,Verb,A1/A2
+to dance,tanzen,Verb,A1/A2
+to telephone,telefonieren,Verb,A1/A2
+to drink,trinken,Verb,A1/A2
+to stay overnight,übernachten,Verb,A1/A2
+to transfer,überweisen,Verb,A1/A2
+to sign,unterschreiben,Verb,A1/A2
+to earn,verdienen,Verb,A1/A2
+to sell,verkaufen,Verb,A1/A2
+to rent out,vermieten,Verb,A1/A2
+to understand,verstehen,Verb,A1/A2
+to hike,wandern,Verb,A1/A2
+to wait,warten,Verb,A1/A2
+to become,werden,Verb,A1/A2
+to want,wollen,Verb,A1/A2
